@@ -3,7 +3,12 @@ COnfig
 git config --global user.name "ciplgit"
 git config --global alias.st status
 
+git log --oneline
+git reset main.py
 
+
+# Undo changes in tracked files
+git reset --hard
 
 STEP1: git init
 STEP2: Git Remote add origin https://github.com/ciplgit/gitbasics.git
