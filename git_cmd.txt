@@ -1,0 +1,11 @@
+COnfig
+======
+git config --global user.name "ciplgit"
+git config --global alias.st status
+
+
+STEP1: git init
+STEP2: Git Remote add origin https://github.com/ciplgit/gitbasics.git
+Step3: Git pull origin master
+
+
